@@ -2,7 +2,7 @@
 
 The calculator layout was based on this design mockup ---> [design](<https://www.figma.com/file/zAexCYuBOBUWb9o1ECHSal/Calculator-App-Ui-Design-Download-Free-(Community)?type=design&node-id=70%3A420&t=lfMWYg3ut7Ondubd-1>)
 
-![calc](https://github.com/Klalexdermyn/calc/assets/49567522/be2553ff-d473-4f4a-95b0-684382a618bd)
+![calc](https://github.com/Klalexdermyn/calc/assets/49567522/9317f9d9-f465-4525-a9c1-8f841ce22ab9)
 
 ## Getting Started with Create React App
 
